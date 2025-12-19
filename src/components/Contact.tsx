@@ -9,7 +9,7 @@ export default function Contact() {
         initial={{ opacity: 0, y: 20 }}
         whileInView={{ opacity: 1, y: 0 }}
         viewport={{ once: true }}
-        transition={{ duration: 0.5 }}
+        transition={{ duration: 0.5 }} 
       >
         <p className="font-mono text-turquoise mb-4">04. Et maintenant ?</p>
         <h2 className="text-4xl md:text-5xl font-bold text-slate-light mb-6">Me Contacter</h2>
