@@ -13,7 +13,7 @@ export default function Hero() {
       >
         <p className="font-mono text-turquoise mb-5">Bonjour, je m'appelle</p>
         <h1 className="text-5xl md:text-7xl font-bold text-slate-light mb-4 tracking-tight">
-          Marius.
+          Matthieu.
         </h1>
         <h2 className="text-4xl md:text-6xl font-bold text-slate mb-8">
           Je construis des architectures web robustes.
