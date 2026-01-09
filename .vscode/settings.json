@@ -3,5 +3,9 @@
     "activityBar.background": "#332E06",
     "titleBar.activeBackground": "#484008",
     "titleBar.activeForeground": "#FDFBEC"
-  }
+  },
+    "sonarlint.connectedMode.project": {
+      "connectionId": "SonarMDS",
+      "projectKey": "MatthieuQuerel_portfolio_matt_e95a5681-a22b-49aa-b5f0-536986933c61"
+    },
 }
